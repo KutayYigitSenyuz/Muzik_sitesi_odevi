@@ -1,0 +1,40 @@
+body{
+    background-color: #ffe382;
+}
+
+.anabaslık{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
+
+}
+
+.anasayfalogo{
+    width: 150px;
+    height: 180px;
+    float: left;
+}
+
+.anasayfalogo2{
+    width: 150px;
+    height: 180px;
+    float: right;
+}
+
+nav{
+    width: auto;
+    height: 100px;
+}
+
+.menu{
+    font-size: 1.5em;
+    text-align: center;
+    word-spacing: 50px;
+    margin-top: 70px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2em ;
+}

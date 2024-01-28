@@ -1,0 +1,94 @@
+body{
+    background-color: #ffe382;
+}
+
+.anabaslık{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
+
+}
+
+.anasayfalogo{
+    width: 150px;
+    height: 180px;
+    float: left;
+}
+
+.anasayfalogo2{
+    width: 150px;
+    height: 180px;
+    float: right;
+}
+
+nav{
+    width: auto;
+    height: 100px;
+}
+
+.menu{
+    font-size: 1.5em;
+    text-align: center;
+    word-spacing: 50px;
+    margin-top: 70px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2em ;
+}
+
+.boyut{
+    width: 400px;
+    height: 350px;
+    margin-top: 10px;
+    padding-left: 25px;
+}
+
+section{
+    text-align: center;
+    position: relative;
+}
+
+#text1{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 357px;
+    font-size: 2em;
+}
+
+#text2{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 357px;
+    font-size: 2em;
+}
+
+#text3{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 357px;
+    font-size: 2em;
+}
+
+#text4{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 357px;
+    font-size: 2em;
+}
+
+#text5{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 357px;
+    font-size: 2em;
+}
+
+#text6{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 357px;
+    font-size: 2em;
+}
